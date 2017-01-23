@@ -66,7 +66,7 @@
              <div class="widget_sp_image-description" >
                <p>画像ウィジェットを使うとウィジェットに簡単に画像を挿入できます</p>
              </div>
-       </section> 
+       </section>
       </div>
       <article class="product">
         <div class="cf">
